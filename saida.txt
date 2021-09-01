@@ -1,0 +1,6 @@
+Vieram de escola publica: 50.00%
+Vieram de escola privada: 50.00%
+Sexo feminino: 50.00%
+Sexo masculino: 50.00%
+Escolheu Engenharia de Software: 50.00%
+Escolheu Engenharia de computacao: 50.00%

@@ -1,0 +1,10 @@
+Daniel Carvalho	M	3	publica Engenharia de Software
+Manoel Souza	M	3	privada Engenharia de Software
+Paula Costa	F	3	privada	Engenharia de Software
+Danilo Maciel	M	2	publica Engenharia de Computacao
+Antonio Paiva	M	1	publica Engenharia de Computacao
+Maria Lins	F	3	privada Engenharia de Computacao
+Patricia Dias	F	3	publica	Engenharia de Software
+Dante Montford	M	3	publica	Engenharia de Software
+Patricua Silva	F	2	privada Engenharia de Computacao
+Alleria Wind	F	1	privada	Engenharia de Computacao

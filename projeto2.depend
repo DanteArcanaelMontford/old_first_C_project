@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1578281531 source:/home/ghost/Documents/projeto2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"aluno.h"
+
+1578281531 source:/home/ghost/Documents/projeto2/aluno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"aluno.h"
+
+1578219338 /home/ghost/Documents/projeto2/aluno.h
+
